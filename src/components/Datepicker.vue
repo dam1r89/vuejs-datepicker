@@ -794,6 +794,7 @@ $width = 300px
     background white
     width $width
     border 1px solid #ccc
+    white-space normal
     header
         display block
         line-height 40px
